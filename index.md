@@ -20,13 +20,16 @@ Apart from dealing with academics, I like painting, videography, adventure sport
 
 ### Self-driving race cars using Deepdrive (on Going)
 
-### Self-driving cars learns to race using Deep Reinforcement Learning 
+### Self-driving race using Deep Reinforcement Learning
 <iframe width="560" height="315" src="https://www.youtube.com/embed/7NMKbAcX55k" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 * The 3D cars learn to drive and race on their own using deep reinforcement learning. After several rounds of training using proximal policy optimization update, the cars can drive themselves to complete the circuit. The training environment is created using Unity ML with five race cars.
 
-### AI Car learns to reach its target using Deep Reinforcement Learning
+### Self-driving Reacher using Deep Reinforcement Learning
 <iframe width="560" height="315" src="https://www.youtube.com/embed/Oea_uqhDVfg" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
  * In this video, a car learns to drive using deep reinforcement learning and Unity ML.  The environment was created using UNITY 3D,  and C# code was used to assign colliders and reward functions.  After training for several rounds using proximal policy optimization update, the car learns to reach the target
+ 
+
+## Old projects
 
 - [Project 1 Title](http://example.com/)
 - [Project 2 Title](http://example.com/)
