@@ -15,13 +15,11 @@ Apart from dealing with academics, I like painting, videography, adventure sport
 - [Object Detection for a Robot using Deep Learning](https://medium.com/analytics-vidhya/object-detection-for-robots-using-deep-learning-68c660aa3b96)
 - [Building and training a Convolution GAN with Keras](https://medium.com/analytics-vidhya/building-and-training-a-convolution-gan-with-keras-9e88cd348243)
 - [Building and training a Convolutional Neural Network (CNN) from scratch](https://medium.com/ai-in-plain-english/building-and-training-a-convolutional-neural-network-cnn-from-scratch-9a64bcc62c1)
+
 ##  Projects
+
 ### Self-driving race cars using Deepdrive (on Going)
-<iframe width="560" height="315"
-src="https://youtu.be/7NMKbAcX55k" 
-frameborder="0" 
-allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" 
-allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/7NMKbAcX55k" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ### Recently completed mini-projects
 - [Trainging self-driving race cars using Deep Reinforcement Learning and UNITY ML]
