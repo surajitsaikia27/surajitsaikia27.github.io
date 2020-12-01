@@ -23,7 +23,7 @@ frameborder="0"
 allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" 
 allowfullscreen></iframe>
 ### Recently completed mini-projects
-Trainging self-driving race cars using Deep Reinforcement Learning and UNITY ML
+- Trainging self-driving race cars using Deep Reinforcement Learning and UNITY ML
 
 - [Project 1 Title](http://example.com/)
 - [Project 2 Title](http://example.com/)
