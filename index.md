@@ -17,7 +17,7 @@ Apart from dealing with academics, I like painting, videography, adventure sport
 - [Building and training a Convolutional Neural Network (CNN) from scratch](https://medium.com/ai-in-plain-english/building-and-training-a-convolutional-neural-network-cnn-from-scratch-9a64bcc62c1)
 
 #  Projects
-
+## Mini Projects
 ### Self-driving race cars using Deepdrive (on Going)
 
 ### Self-driving race using Deep Reinforcement Learning
