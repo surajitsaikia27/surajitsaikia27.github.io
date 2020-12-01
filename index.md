@@ -16,7 +16,7 @@ Apart from dealing with academics, I like painting, videography, adventure sport
 - [Building and training a Convolution GAN with Keras](https://medium.com/analytics-vidhya/building-and-training-a-convolution-gan-with-keras-9e88cd348243)
 - [Building and training a Convolutional Neural Network (CNN) from scratch](https://medium.com/ai-in-plain-english/building-and-training-a-convolutional-neural-network-cnn-from-scratch-9a64bcc62c1)
 
-
+<iframe width="560" height="315" src="https://youtu.be/7NMKbAcX55k" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 
 ### Projects
 
