@@ -16,13 +16,15 @@ Apart from dealing with academics, I like painting, videography, adventure sport
 - [Building and training a Convolution GAN with Keras](https://medium.com/analytics-vidhya/building-and-training-a-convolution-gan-with-keras-9e88cd348243)
 - [Building and training a Convolutional Neural Network (CNN) from scratch](https://medium.com/ai-in-plain-english/building-and-training-a-convolutional-neural-network-cnn-from-scratch-9a64bcc62c1)
 
-##  Projects
+#  Projects
 
 ### Self-driving race cars using Deepdrive (on Going)
-<iframe width="560" height="315" src="https://www.youtube.com/embed/7NMKbAcX55k" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-### Recently completed mini-projects
-- [Trainging self-driving race cars using Deep Reinforcement Learning and UNITY ML]
+### Self-driving cars learns to race using Deep Reinforcement Learning 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/7NMKbAcX55k" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+* The 3D cars learn to drive and race on their own using deep reinforcement learning. After several rounds of training using proximal policy optimization update, the cars can drive themselves to complete the circuit. The training environment is created using Unity ML with five race cars.
+
+### AI Car learns to reach its target using Deep Reinforcement Learning
 <iframe width="560" height="315" src="https://www.youtube.com/embed/Oea_uqhDVfg" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
  * In this video, a car learns to drive using deep reinforcement learning and Unity ML.  The environment was created using UNITY 3D,  and C# code was used to assign colliders and reward functions.  After training for several rounds using proximal policy optimization update, the car learns to reach the target
 
