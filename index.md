@@ -24,7 +24,7 @@ Apart from dealing with academics, I like painting, videography, adventure sport
 ### Recently completed mini-projects
 - [Trainging self-driving race cars using Deep Reinforcement Learning and UNITY ML]
 <iframe width="560" height="315" src="https://www.youtube.com/embed/Oea_uqhDVfg" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
- *In this video, a car learns to drive using deep reinforcement learning and Unity ML.  The environment was created using UNITY 3D,  and C# code was used to assign colliders and reward functions.  After training for several rounds using proximal policy optimization update, the car learns to reach the target*
+ * In this video, a car learns to drive using deep reinforcement learning and Unity ML.  The environment was created using UNITY 3D,  and C# code was used to assign colliders and reward functions.  After training for several rounds using proximal policy optimization update, the car learns to reach the target
 
 - [Project 1 Title](http://example.com/)
 - [Project 2 Title](http://example.com/)
