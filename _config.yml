@@ -1,11 +1,13 @@
 title: Surajit Saikia # your name (or website title) here
 logo: "/images/logo.jpg?raw=true" # your photo (or logo) here
 description: > # your text below (remove <br> elements if you don't need line breaks)
-  First description 
+  PhD student in AI with interest in Deep Reinforcement learning, robotics and self-driving cars
   <br><br>
   Second description 
   <br><br>
-  <a href="https://www.linkedin.com/in/example/">View My LinkedIn Profile</a> 
+  <a href="https://www.linkedin.com/in/surajit-saikia-55b717101/">My LinkedIn Profile</a> 
+  <br><br>
+  <a href="https://surjeetsaikia.medium.com/">Medium</a> 
   
 theme: jekyll-theme-cayman
 google_analytics: UA-000000-0 # your Google Analytics tracking ID here
