@@ -19,7 +19,7 @@ Apart from dealing with academics, I like painting, videography, adventure sport
 #  Projects
 ## Mini Projects
 ### Autonomous navigation using Deepdrive (on Going)
-<img src="https://camo.githubusercontent.com/..." data-canonical-src="https://gyazo.com/eb5c5741b6a9a16c692170a41a49c858.png" width="200" height="400" />
+<img src="selfdrive.gif" width="560" height="315" />
 ### Self-driving race using Deep Reinforcement Learning
 <iframe width="560" height="315" src="https://www.youtube.com/embed/7NMKbAcX55k" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 * The 3D cars learn to drive and race on their own using deep reinforcement learning. After several rounds of training using proximal policy optimization update, the cars can drive themselves to complete the circuit. The training environment is created using Unity ML with five race cars.
