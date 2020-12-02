@@ -20,7 +20,7 @@ Apart from dealing with academics, I like painting, videography, adventure sport
 ## Mini Projects
 ### Autonomous navigation using Deepdrive (on Going)
 <img src="selfdrive.gif" width="560" height="315" />
-* Deepdrive is a realistic simulator for self-driving cars. The observation space of the AI-agent or the car is multidimensional, to name a few the states consists of image data, depth data, angular velocity and so on. In this project, in order to train the self-driving car, I am using Deep reinforcement learning with Actor-critic approach and Proximal Policy Optimization.
+* Deepdrive is a realistic simulator for self-driving cars. The observation space of the AI-agent or the car is multidimensional, to name a few, the states consist of image data, depth data, angular velocity and so on. The goal of the car is to complete its lap in minimum time by avoiding accidents. In this project, to train the self-driving car, I am experimenting with several observation states to come up with an efficient model. Moreover, I am using Deep reinforcement learning with Actor-critic approach and Proximal Policy Optimization.
 
 ### Self-driving race using Deep Reinforcement Learning
 <iframe width="560" height="315" src="https://www.youtube.com/embed/7NMKbAcX55k" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
@@ -35,8 +35,7 @@ Apart from dealing with academics, I like painting, videography, adventure sport
 - [Programing a robot to obey voice commands ](https://photos.app.goo.gl/YaY52my54sv5SRXH7)
 - [Continuos control of a robotic hand using deep reinforcement learning (Udacity Mini project)](https://github.com/surajitsaikia27/DRL_Continiuos_Control)
 - [Deep-Reinforcement-Learning-for-Navigation (Udacity Mini project)](https://github.com/surajitsaikia27/Deep-Reinforcement-Learning-for-Navigation)
-- [Project 4 Title](http://example.com/)
-- [Project 5 Title](http://example.com/)
+
 
 ---
 
