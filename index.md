@@ -18,7 +18,7 @@ Apart from dealing with academics, I like painting, videography, adventure sport
 
 #  Projects
 ## Mini Projects
-### Self-driving race cars using Deepdrive (on Going)
+### Autonomous navigation using Deepdrive (on Going)
 
 ### Self-driving race using Deep Reinforcement Learning
 <iframe width="560" height="315" src="https://www.youtube.com/embed/7NMKbAcX55k" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
