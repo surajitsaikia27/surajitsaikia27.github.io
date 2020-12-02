@@ -20,6 +20,8 @@ Apart from dealing with academics, I like painting, videography, adventure sport
 ## Mini Projects
 ### Autonomous navigation using Deepdrive (on Going)
 <img src="selfdrive.gif" width="560" height="315" />
+* Deepdrive is a realistic simulator for self-driving cars. The observation space of the AI-agent or the car is multidimensional, to name a few the states consists of image data, depth data, angular velocity and so on. In this project, in order to train the self-driving car, I am using Deep reinforcement learning with Actor-critic approach and Proximal Policy Optimization.
+
 ### Self-driving race using Deep Reinforcement Learning
 <iframe width="560" height="315" src="https://www.youtube.com/embed/7NMKbAcX55k" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 * The 3D cars learn to drive and race on their own using deep reinforcement learning. After several rounds of training using proximal policy optimization update, the cars can drive themselves to complete the circuit. The training environment is created using Unity ML with five race cars.
