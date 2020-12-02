@@ -30,8 +30,7 @@ Apart from dealing with academics, I like painting, videography, adventure sport
  
 
 ## Old projects
-
-- [Project 1 Title](http://example.com/)
+- [Programing a robot to obey voice commands ](https://photos.app.goo.gl/YaY52my54sv5SRXH7)
 - [Project 2 Title](http://example.com/)
 - [Project 3 Title](http://example.com/)
 - [Project 4 Title](http://example.com/)
