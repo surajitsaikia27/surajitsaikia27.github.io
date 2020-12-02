@@ -32,7 +32,7 @@ Apart from dealing with academics, I like painting, videography, adventure sport
 ## Old projects
 - [Programing a robot to obey voice commands ](https://photos.app.goo.gl/YaY52my54sv5SRXH7)
 - Continuos control of a robotic hand using deep reinforcement learning (Udacity Mini project)(https://github.com/surajitsaikia27/DRL_Continiuos_Control)
-- [Project 3 Title](http://example.com/)
+- Deep-Reinforcement-Learning-for-Navigation (Udacity Mini project) (https://github.com/surajitsaikia27/Deep-Reinforcement-Learning-for-Navigation)
 - [Project 4 Title](http://example.com/)
 - [Project 5 Title](http://example.com/)
 
