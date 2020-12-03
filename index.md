@@ -17,8 +17,7 @@ Apart from dealing with academics, I like painting, videography, adventure sport
 - [Building and training a Convolutional Neural Network (CNN) from scratch](https://medium.com/ai-in-plain-english/building-and-training-a-convolutional-neural-network-cnn-from-scratch-9a64bcc62c1)
 -[Building an Object Detector in a few steps](https://medium.com/analytics-vidhya/creating-a-powerful-and-quick-object-detection-system-using-frozen-tensorflow-models-bacfff3e2114)
 - [Programming a robot to navigate and detect obstacles](https://medium.com/analytics-vidhya/programming-a-home-robot-vector-to-navigate-and-detect-obstacles-a2a46d140bc5)
-#  Projects
-## Mini Projects
+##  Projects
 ### Autonomous navigation using Deepdrive (ongoing)
 <img src="selfdrive.gif" width="590" height="315" />
 * Deepdrive is a realistic simulator for self-driving cars. The observation space of the AI-agent or the car is multidimensional, to name a few, the states consist of image data, depth data, angular velocity and so on. The goal of the car is to complete its lap in minimum time by avoiding accidents. In this project, to train the self-driving car, I am experimenting with several observation states to come up with an efficient model. Moreover, I am using Deep reinforcement learning with Actor-critic approach and Proximal Policy Optimization.
@@ -32,7 +31,7 @@ Apart from dealing with academics, I like painting, videography, adventure sport
  * In this video, a car learns to drive using deep reinforcement learning and Unity ML.  The environment was created using UNITY 3D,  and C# code was used to assign colliders and reward functions.  After training for several rounds using proximal policy optimization update, the car learns to reach the target
  
 
-## Old projects
+## Other recent projects
 - [Programing a robot to obey voice commands ](https://photos.app.goo.gl/YaY52my54sv5SRXH7)
 - [Continuos control of a robotic hand using deep reinforcement learning (Udacity Mini project)](https://github.com/surajitsaikia27/DRL_Continiuos_Control)
 - [Deep-Reinforcement-Learning-for-Navigation (Udacity Mini project)](https://github.com/surajitsaikia27/Deep-Reinforcement-Learning-for-Navigation)
