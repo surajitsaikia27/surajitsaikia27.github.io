@@ -17,6 +17,7 @@ Apart from dealing with academics, I like painting, videography, adventure sport
 - [Building and training a Convolutional Neural Network (CNN) from scratch](https://medium.com/ai-in-plain-english/building-and-training-a-convolutional-neural-network-cnn-from-scratch-9a64bcc62c1)
 -[Building an Object Detector in a few steps](https://medium.com/analytics-vidhya/creating-a-powerful-and-quick-object-detection-system-using-frozen-tensorflow-models-bacfff3e2114)
 - [Programming a robot to navigate and detect obstacles](https://medium.com/analytics-vidhya/programming-a-home-robot-vector-to-navigate-and-detect-obstacles-a2a46d140bc5)
+
 ##  Projects
 ### Autonomous navigation using Deepdrive (ongoing)
 <img src="selfdrive.gif" width="590" height="315" />
