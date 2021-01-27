@@ -7,7 +7,7 @@ Apart from dealing with academics, I like painting, videography, adventure sport
 ---
 
 ## Blogs
-- [https://medium.com/analytics-vidhya/simulating-self-driving-ai-race-using-unity-ml-2ac314f67980](https://medium.com/analytics-vidhya/simulating-self-driving-ai-race-using-unity-ml-2ac314f67980)
+- [Simulating self-driving cars using Unity-ML](https://medium.com/analytics-vidhya/simulating-self-driving-ai-race-using-unity-ml-2ac314f67980)
 - [Deep Reinforcement learning using Proximal Policy Optimization](https://link.medium.com/7Ej1F2H9Rbb)
 - [Deep Reinforcement Learning and Object detection for Artificial Intelligent agent](https://link.medium.com/dvHiL4N9Rbb )
 - [Build your Realtime custom object detector using YOLOv3](https://link.medium.com/U1riElR9Rbb )
