@@ -1,5 +1,5 @@
 ## Introduction
-I am currently doing my PhD in the field of Artificial Intelligence, where my task is to build state-of-the-art algorithms with regards to object detection, image retrieval and scene recognition using deep learning. Before starting my PhD, I have completed my M.Tech in computer science and M.Sc in Mathematics. My areas of interest include Deep Reinforcement learning, 3D vision, Scene Understanding, and Computer vision. 
+I am currently doing my PhD in the field of Machine learning and computer vision, where my task is to build state-of-the-art algorithms with regards to object detection, image retrieval and scene recognition using deep learning. Before starting my PhD, I have completed my M.Tech in computer science and M.Sc in Mathematics. My areas of interest include Deep Reinforcement learning, 3D vision, Scene Understanding, and Computer vision. 
 
 Apart from dealing with academics, I like painting, videography, adventure sports (roller skating, Hiking, surfing) and Music. I do play the Piano, Guitar, and was a saxophonist in my University band. Moreover, I welcome new opportunities in my life that would allow me to contribute towards creating a better world and to serve humanity.
 
@@ -7,6 +7,7 @@ Apart from dealing with academics, I like painting, videography, adventure sport
 ---
 
 ## Blogs
+- [https://medium.com/analytics-vidhya/simulating-self-driving-ai-race-using-unity-ml-2ac314f67980](https://medium.com/analytics-vidhya/simulating-self-driving-ai-race-using-unity-ml-2ac314f67980)
 - [Deep Reinforcement learning using Proximal Policy Optimization](https://link.medium.com/7Ej1F2H9Rbb)
 - [Deep Reinforcement Learning and Object detection for Artificial Intelligent agent](https://link.medium.com/dvHiL4N9Rbb )
 - [Build your Realtime custom object detector using YOLOv3](https://link.medium.com/U1riElR9Rbb )
