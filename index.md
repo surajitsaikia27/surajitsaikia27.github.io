@@ -24,6 +24,11 @@ Apart from dealing with academics, I like painting, videography, adventure sport
 * Deepdrive is a realistic simulator for self-driving cars. The observation space of the AI-agent or the car is multidimensional, to name a few, the states consist of image data, depth data, angular velocity and so on. The goal of the car is to complete its lap in minimum time by avoiding accidents. In this project, to train the self-driving car, I am experimenting with several observation states to come up with an efficient model. Moreover, I am using Deep reinforcement learning with Actor-critic approach and Proximal Policy Optimization.
 
 ### Self-driving race using Deep Reinforcement Learning
+<img src="ilu.gif"/>
+(https://surajitsaikia27.github.io/RoboVec/)
+In this project, a home robot known as Vector is programmed to do a few tasks based on voiced commands. It uses deep learning, computer vision and speech recognition, and is programmed using the Anki Vector SDK. The Vector SDK gives access to various capabilities of this robot, such as computer vision, Artificial intelligence, navigation, etc. You can design your own programs to make this robot pet imbibed with AI capabilities. Here, in this project, I have trained and used a real-time object detector which lets the robot to recognise objects in its surrounding environment. Moreover, in this module, instructions are also provided on how to create your own customize object detector. 
+
+### Self-driving race using Deep Reinforcement Learning
 <iframe width="560" height="315" src="https://www.youtube.com/embed/7NMKbAcX55k" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 * The 3D cars learn to drive and race on their own using deep reinforcement learning. After several rounds of training using proximal policy optimization update, the cars can drive themselves to complete the circuit. The training environment is created using Unity ML with five race cars.
 
