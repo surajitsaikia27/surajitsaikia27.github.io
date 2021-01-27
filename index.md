@@ -26,7 +26,7 @@ Apart from dealing with academics, I like painting, videography, adventure sport
 
 ### RoboVec: A home robot powered by deep learning, computer vision, object detection and speech recognition
 <img src="ilu.gif"/>
-(https://surajitsaikia27.github.io/RoboVec/)
+- [Project Link](https://surajitsaikia27.github.io/RoboVec/)
 In this project, a home robot known as Vector is programmed to do a few tasks based on voiced commands. It uses deep learning, computer vision and speech recognition, and is programmed using the Anki Vector SDK. The Vector SDK gives access to various capabilities of this robot, such as computer vision, Artificial intelligence, navigation, etc. You can design your own programs to make this robot pet imbibed with AI capabilities. Here, in this project, I have trained and used a real-time object detector which lets the robot to recognise objects in its surrounding environment. Moreover, in this module, instructions are also provided on how to create your own customize object detector. 
 
 ### Self-driving race using Deep Reinforcement Learning
